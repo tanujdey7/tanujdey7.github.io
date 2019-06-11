@@ -6,4 +6,4 @@ Languages used:
 2. CSS
 3. JavaScript
 4. Node
-5.React
+5. React
